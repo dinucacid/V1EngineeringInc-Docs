@@ -17,7 +17,7 @@ enough for you this picks up where that left off.
 
  * Full Y and Z axis squaring, leveling, and Z probing are available for excellent precision and accuracy.
 
- * Works with any 5 driver board. 4 driver boards can be used but some automation, one axis dual endstos, will be lost.
+ * Works with any 5 driver board. 4 driver boards can be used but some automation, one axis dual endstops, will be lost.
 
  * Can be used with Marlin, RepRap firmware, GRBL, FluidNC, or others.
 
@@ -67,7 +67,7 @@ Thingiverse Printed parts files:
 
 Buy a set here, [V1 Shop](https://shop.v1engineering.com/collections/lowrider-parts/products/lowrider-v3-printed-parts).
 
-Or print your own. No supoprts needed, keep the default orientation. PLA is recommended for ultimate rigidity, other 
+Or print your own. No supports needed, keep the default orientation. PLA is recommended for ultimate rigidity, other 
 filaments should be evaluated for rigidity. 2-3 walls rectilinear infill. Thicker layers since these are large parts, no 
 more than 80% nozzle diameter to keep overhangs working.
 
